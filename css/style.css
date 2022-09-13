@@ -22,6 +22,9 @@
    border-radius: 10px;
 
 }
+.message p {
+    margin: 0;
+}
 .left{
    float: left;
    clear: both;
@@ -53,4 +56,22 @@
 body{
     height: 100vh;
     background-image: linear-gradient(rgb(255, 255, 255), rgb(225, 169, 238));
+}
+
+#editor-container {
+    position: relative;
+    
+}
+
+#send-btn {
+    position: absolute;
+    bottom: 3em;
+    right: 1em;
+    background: none;
+    border: none;
+    z-index: 100;
+}
+
+#send-btn img {
+    width: 30px;
 }
