@@ -20,7 +20,7 @@ https://code.visualstudio.com/download
 # Install NodeJS:
 https://nodejs.org/en/download/
 
-# Colne this project on your desk:
+# Clone this project on your desk:
     1. Click on code option available in this Project at the right top corner.
     2. Click on HTTPS link for this project it is: https://github.com/Shreya-spec/Web-Chat.git
     3. Open your GitHub Desktop and clone this project there.
