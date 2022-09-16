@@ -13,7 +13,7 @@
 11. Emoji
 12. Mention Someone
 
-#### Server should be NodeJS Server, and is built using either JavaScript 
+#### Server is NodeJS Server, and is built using JavaScript 
 # Install VS Code:
 https://code.visualstudio.com/download
 
